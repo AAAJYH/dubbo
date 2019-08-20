@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-base/cloud-base.iml" filepath="$PROJECT_DIR$/cloud-base/cloud-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common/common.iml" filepath="$PROJECT_DIR$/common/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-base/common-base.iml" filepath="$PROJECT_DIR$/common/common-base/common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-build/common-build.iml" filepath="$PROJECT_DIR$/common/common-build/common-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coupon/coupon-base/coupon-base.iml" filepath="$PROJECT_DIR$/coupon/coupon-base/coupon-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coupon/coupon-build/coupon-build.iml" filepath="$PROJECT_DIR$/coupon/coupon-build/coupon-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coupon/coupon-dao/coupon-dao.iml" filepath="$PROJECT_DIR$/coupon/coupon-dao/coupon-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coupon/coupon-service/coupon-service.iml" filepath="$PROJECT_DIR$/coupon/coupon-service/coupon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dubbo.iml" filepath="$PROJECT_DIR$/.idea/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface-base/interface-base.iml" filepath="$PROJECT_DIR$/interface/interface-base/interface-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface-build/interface-build.iml" filepath="$PROJECT_DIR$/interface/interface-build/interface-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface-coupon/interface-coupon.iml" filepath="$PROJECT_DIR$/interface/interface-coupon/interface-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface-member/interface-member.iml" filepath="$PROJECT_DIR$/interface/interface-member/interface-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi/webapi-base/webapi-base.iml" filepath="$PROJECT_DIR$/webapi/webapi-base/webapi-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi/webapi-boot/webapi-boot.iml" filepath="$PROJECT_DIR$/webapi/webapi-boot/webapi-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapi/webapi-build/webapi-build.iml" filepath="$PROJECT_DIR$/webapi/webapi-build/webapi-build.iml" />
+    </modules>
+  </component>
+</project>

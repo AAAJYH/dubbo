@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cloud-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common-build" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon/coupon-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon/coupon-build" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon/coupon-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon/coupon-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/interface-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/interface-coupon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/interface-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webapi/webapi-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webapi/webapi-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webapi/webapi-build" charset="UTF-8" />
+  </component>
+</project>

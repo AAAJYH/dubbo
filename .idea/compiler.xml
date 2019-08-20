@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="coupon-dao" />
+        <module name="interface-member" />
+        <module name="common" />
+        <module name="coupon-service" />
+        <module name="webapi-boot" />
+        <module name="interface-coupon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-base" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="common-base" target="1.8" />
+      <module name="common-build" target="1.8" />
+      <module name="commonbase" target="1.8" />
+      <module name="coupon-base" target="1.8" />
+      <module name="coupon-build" target="1.5" />
+      <module name="coupon-dao" target="1.8" />
+      <module name="coupon-service" target="1.8" />
+      <module name="interface-base" target="1.8" />
+      <module name="interface-build" target="1.5" />
+      <module name="interface-coupon" target="1.8" />
+      <module name="interface-member" target="1.8" />
+      <module name="webapi-base" target="1.8" />
+      <module name="webapi-boot" target="1.8" />
+      <module name="webapi-build" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-base" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="common-base" options="-parameters" />
+      <module name="common-build" options="-parameters" />
+      <module name="commonbase" options="-parameters" />
+      <module name="coupon-base" options="-parameters" />
+      <module name="coupon-dao" options="-parameters" />
+      <module name="coupon-service" options="-parameters" />
+      <module name="interface-base" options="-parameters" />
+      <module name="interface-coupon" options="-parameters" />
+      <module name="interface-member" options="-parameters" />
+      <module name="webapi-base" options="-parameters" />
+      <module name="webapi-boot" options="-parameters" />
+      <module name="webapi-build" options="-parameters" />
+    </option>
+  </component>
+</project>
