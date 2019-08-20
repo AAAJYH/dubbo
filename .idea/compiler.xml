@@ -8,10 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="coupon-dao" />
         <module name="interface-member" />
-        <module name="common" />
         <module name="coupon-service" />
-        <module name="webapi-boot" />
         <module name="interface-coupon" />
+        <module name="webapi-boot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-base/cloud-base.iml" filepath="$PROJECT_DIR$/cloud-base/cloud-base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common/common/common.iml" filepath="$PROJECT_DIR$/common/common/common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common/common-base/common-base.iml" filepath="$PROJECT_DIR$/common/common-base/common-base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common/common-build/common-build.iml" filepath="$PROJECT_DIR$/common/common-build/common-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/coupon/coupon-base/coupon-base.iml" filepath="$PROJECT_DIR$/coupon/coupon-base/coupon-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/coupon/coupon-build/coupon-build.iml" filepath="$PROJECT_DIR$/coupon/coupon-build/coupon-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/coupon/coupon-dao/coupon-dao.iml" filepath="$PROJECT_DIR$/coupon/coupon-dao/coupon-dao.iml" />
