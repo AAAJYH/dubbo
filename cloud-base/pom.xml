@@ -21,7 +21,7 @@
         <lombok>1.16.20</lombok>
         <springboot-versoin>2.0.0.RELEASE</springboot-versoin>
         <mybatis-plus-version>3.1.2</mybatis-plus-version>
-        <mysql-version>5.1.45</mysql-version>
+        <mysql-version>8.0.28</mysql-version>
         <zk-client.version>0.10</zk-client.version>
         <spring-dubbo.version>0.2.0</spring-dubbo.version>
         <log4j-version>1.2.17</log4j-version>
